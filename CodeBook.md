@@ -1,4 +1,8 @@
-# The variables in output_data.txt
+# Code Book
+
+This code book describes the data fields in output_data.txt
+
+# Data Layout
 
 The data set contains 180 rows and 68 columns. Each row contains measurements for an activity performed by a subject
 
@@ -15,7 +19,7 @@ The data set contains 180 rows and 68 columns. Each row contains measurements fo
 
 The subjects are identified by numbers from 1 to 30
 
-# As per the assignment instructions, only the following features from sensor measurements were preserved from the original data set
+# Extracted Sensor Measurements (as per the assignment instructions)
 
 1. tBodyAcc-mean()-X
 1. tBodyAcc-mean()-Y
