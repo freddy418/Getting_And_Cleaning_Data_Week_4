@@ -1,6 +1,6 @@
 # Getting and Cleaning Data - Week 4 Programming Assignment
 
-This repo contains file run_analysis.R, this README, and a CodeBook describing the processed data file
+This repo contains the run_analysis.R script, this README, and a CodeBook describing the processed data file
 
 # The run_analysis.R script does the following processing steps:
 
