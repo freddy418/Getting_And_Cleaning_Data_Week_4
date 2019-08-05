@@ -1,20 +1,20 @@
 # Getting and Cleaning Data - Week 4 Programming Assignment
 
-This repo contains file run_analysis.R, it can be run after downloading the data from the link below and unzipping it in the same directory as the script
-
-https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip
+This repo contains file run_analysis.R, this README, and a CodeBook describing the processed data file
 
 # The run_analysis.R script does the following processing steps:
 
-1. Merges the training and the test sets to create one data set.
+1. Downloads and extracts the data set from link provided by assignment description.
 
-2. Extracts only the measurements on the mean and standard deviation for each measurement.
+2. Merges the training and the test sets to create one data set.
 
-3. Uses descriptive activity names to name the activities in the data set
+3. Extracts only the measurements on the mean and standard deviation for each measurement.
 
-4. Appropriately labels the data set with descriptive variable names.
+4. Uses descriptive activity names to name the activities in the data set
 
-5. From the data set in step 4, creates a second, independent tidy data set with the average of each variable for each activity and each subject.
+5. Appropriately labels the data set with descriptive variable names.
+
+6. From the data set in step 4, creates a second, independent tidy data set named output_data.txt with the average of each variable for each activity and each subject.
 
 # Code book describing the variables
 
